@@ -18,8 +18,8 @@ I'm a Computer Engineering graduate with a strong passion for technology, AI, an
 - Collaborate with developers on open-source or indie game/AI projects
 
 ## 🗣️ Languages
-- 🇹🇷 Turkish: Native  
-- 🇬🇧 English: Advanced (C1)
+- Turkish: Native  
+- English: Advanced (C1)
 
 ## 📫 Get in Touch
 - ✉️ safakustatr@gmail.com 

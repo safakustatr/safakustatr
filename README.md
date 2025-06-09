@@ -7,6 +7,7 @@ I'm a Computer Engineering graduate with a strong passion for technology, AI, an
 - Building small projects with python
 
 ## 🔨 Projects
+- [NeonToggle](https://github.com/safakustatr/NeonToggle): A minimalist light-switch puzzle game built using Godot Engine
 - [Python-Exercises](https://github.com/safakustatr/Python-Exercises): A collection of exercises and mini-projects during my Python learning journey.
 - [diceegame](https://github.com/safakustatr/diceegame): A simple dice game built with JavaScript and DOM manipulation.
 - [drumkit](https://github.com/safakustatr/drumkit): A fun, interactive drum kit played via keyboard inputs.
